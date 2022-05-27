@@ -59,7 +59,7 @@
                     <server>TomcatServer</server>
                     <username>admin</username>
                     <password>admin</password>
-                    <path>/lesson6</path>
+                    <path>/</path>
                     <update>true</update>
                 </configuration>
             </plugin>
